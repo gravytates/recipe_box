@@ -1,5 +1,6 @@
 # Link's Recipe Box
 
+View website: https://infinite-dawn-72127.herokuapp.com/
 This project allows the user the ability to store their own recipes. Recipes have ingredients and tags as well. The user can search through their recipes by name, ingredients, and tags. The user has full capability to add, edit, delete, and view all data by recipe, tag, and ingredient.
 
 ![Image of Homepage Screenshot](public/img/homepage_shot.png)
